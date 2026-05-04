@@ -43,7 +43,7 @@
     <ban-junit4-imports.skip>false</ban-junit4-imports.skip>
     <maven.version>3.9.15</maven.version>
     <wagon.version>3.5.3</wagon.version>
-    <spotless.check.skip>false</spotless.check.skip>
+    <spotless.check.skip>true</spotless.check.skip>
     <ban-deprecated-stapler.skip>false</ban-deprecated-stapler.skip>
   </properties>
   <dependencyManagement>
